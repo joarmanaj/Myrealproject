@@ -1,2 +1,1 @@
-# Myrealproject
-this is to present thie as my first project as an odinite.
+# this is to present my first ever project as an odinite.
